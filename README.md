@@ -29,7 +29,7 @@ no public IPs anywhere.*
 
 ## 🔗 Quick Links
 
-📄 [**strongSwan / VPN Gateway Setup Guide**](docs/ubuntu-strongswan-setup-guide.md)
+📄 [**StrongSwan / VPN Gateway Setup Guide**](docs/ubuntu-strongswan-setup-guide.md)
 
 📄 [**SQL Server VM Setup Guide**](docs/ubuntu-sqlserver-setup-guide.md)
 
