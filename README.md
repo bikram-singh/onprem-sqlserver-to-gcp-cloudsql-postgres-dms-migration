@@ -103,6 +103,8 @@ requirement, not an afterthought.
 
 ## 🏛️ Architecture
 
+![DMS Migration Architecture — On-Prem SQL Server to GCP Cloud SQL](docs/DMS_Migration_On_Prem_SQL_Server_to_GCP_Cloud_SQL.png)
+
 ```
 [Home Network — Wi-Fi, dynamic public IP]
         │
