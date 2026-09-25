@@ -29,9 +29,12 @@ no public IPs anywhere.*
 
 ## 🔗 Quick Links
 
-📄 [**strongSwan / VPN Gateway Setup Guide**](docs/ubuntu-strongswan-setup-guide.md) &nbsp;·&nbsp;
-📄 [**SQL Server VM Setup Guide**](docs/ubuntu-sqlserver-setup-guide.md) &nbsp;·&nbsp;
-📸 [**146 Screenshots**](docs/snapshots) &nbsp;·&nbsp;
+📄 [**strongSwan / VPN Gateway Setup Guide**](docs/ubuntu-strongswan-setup-guide.md)
+
+📄 [**SQL Server VM Setup Guide**](docs/ubuntu-sqlserver-setup-guide.md)
+
+📸 [**146 Screenshots**](docs/snapshots)
+
 📝 **Companion Medium Article:** *"A Real DMS Migration, Built From a Home Network: On-Prem SQL Server to GCP Cloud SQL for PostgreSQL"* — link added on publish
 
 ---
